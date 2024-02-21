@@ -14,5 +14,8 @@ cálculos e triangulações por spore13
 - renderização realista/vanilla através de objetos e através de núvens
 - sincronizar com feature de telescópios pro servidor @networkminesky
 
+----
+
 imagem aleatória do cálculo de elevação da lua na vida real
+
 ![image](https://github.com/drawned/lunarforecasting/assets/63619780/9a9e2b88-7243-4a12-a9c8-f8baadb49a45)
