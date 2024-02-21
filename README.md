@@ -2,8 +2,16 @@
 deleta a lua original e a recria usando modelo e text displays.
 
 ## autores
-### código originalmente escrito por @drawned
+### código originalmente escrito por drawned
 ### cálculos e triangulações por spore13
+
+----
+
+## alguns pontos a serem comentados
+- criado para rodar em software PaperMC 1.19.4 (versões superiores devem funcionar);
+- [PERFORMANCE-ADVISED] código e cálculos foram feitos para ambiente de teste, ao plugin ser executado, vai começar a spammar código e cálculo a cada tick POR JOGADOR.
+
+----
 
 ## ideias originais
 - eventos na lua:
