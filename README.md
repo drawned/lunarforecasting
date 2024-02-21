@@ -26,3 +26,7 @@ imagem aleatória do cálculo de elevação da lua na vida real
 imagem aleatoria da "lua falsa" no período beta
 
 ![image](https://github.com/drawned/lunarforecasting/assets/63619780/0fe5c5ac-d7cf-4633-b4d7-58ad0806654b)
+
+----
+
+![image](https://github.com/drawned/lunarforecasting/assets/63619780/45691abb-a6e2-474b-8883-7b6bda178ad3)
