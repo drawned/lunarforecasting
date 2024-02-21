@@ -16,7 +16,9 @@ deleta a lua original e a recria usando modelo e text displays.
 ## ideias originais
 - eventos na lua:
   - bloodmoon
-  - harvest moon
+  - harvest moon (enhanced celestials)
+  - eclipses (total, parcial, anular)
+  - super moon (enhanced celestials)
 - rotação Z não-constante realista baseada na lua da vida real
 - cálculo de view distance do jogador, para que a lua sempre esteja renderizada
 - renderização realista/vanilla através de objetos e através de núvens
